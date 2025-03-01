@@ -17,7 +17,6 @@ This repository includes:
 - Overview diagrams for foundations, and towers
 - Route map
 - Selected general construction drawings
-- Source files for foundation calculations
 
 These documents are provided to assist with learning and to serve as a resource for educational purposes.
 
